@@ -12,24 +12,28 @@ The goal is simple: Code every day. Whether it's a 5-line script to automate a b
 
     Linter: Flake8 / Black (keeping it clean!)
 
-🗺️ Roadmap / Progress Tracker
+2. Roadmap / Progress Tracker
+```
+🗺️ Roadmap
+| Level | Topic | Status | Key Project |
+| :--- | :--- | :--- | :--- |
+| **Lvl 1** | Python Basics | ✅ Done | Simple Calculator |
+| **Lvl 2** | File Handling | 🏗️ In Progress | Log File Parser |
+| **Lvl 3** | Logic & Algorithms | ⏳ To Do | Sorting Visualizer |
+| **Lvl 4** | Web Scraping | ⏳ To Do | Price Tracker |
+| **Lvl 5** | APIs & Database | ⏳ To Do | Portfolio Manager |
+```
 
-I've broken my learning down into specific "Levels." As I master a concept, I check it off.
-Level	Topic	Status	Highlights
-Lvl 1	Basics (Loops, Lists, Dicts)	✅ Complete	My first calculator script
-Lvl 2	Functional Programming	🏗️ In Progress	Exploring map, filter, lambda
-Lvl 3	Object-Oriented (OOP)	⏳ To Do	Building a Class-based RPG
-Lvl 4	Data & APIs	⏳ To Do	Fetching weather data via OpenWeather
-Lvl 5	Web & Beyond	⏳ To Do	First Flask/FastAPI deployment
-
-
+ 📂 Repository Structure
+```text
 python_practice/
-      ├── 01_basics/          # Logic, loops, and data types
-      ├── 02_intermediate/    # Decorators, Context Managers, Threading
-      ├── 03_projects/        # Small standalone mini-apps
-      ├── scripts/            # Random automation scripts
-      └── requirements.txt    # Essential libraries
-
+├── 01_basics/          # Variables, Loops, and Data Types
+├── 02_intermediate/    # Decorators, Generators, and Iterators
+├── 03_oop/             # Object-Oriented Programming projects
+├── 04_data_structures/ # Stacks, Queues, Linked Lists
+├── tests/              # PyTest files for my scripts
+└── requirements.txt    # List of libraries used
+```
 
 💡 Top Lessons Learned
 
@@ -40,5 +44,3 @@ python_practice/
     Lesson 2: Virtual environments (venv) are not optional if you value your sanity.
 
 Star ⭐ this repo if you're also on a Python journey!
-
-
