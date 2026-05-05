@@ -12,28 +12,34 @@ The goal is simple: Code every day. Whether it's a 5-line script to automate a b
 
     Linter: Flake8 / Black (keeping it clean!)
 
-2. Roadmap / Progress Tracker
-```
-🗺️ Roadmap
-| Level | Topic | Status | Key Project |
-| :--- | :--- | :--- | :--- |
-| **Lvl 1** | Python Basics | ✅ Done | Simple Calculator |
-| **Lvl 2** | File Handling | 🏗️ In Progress | Log File Parser |
-| **Lvl 3** | Logic & Algorithms | ⏳ To Do | Sorting Visualizer |
-| **Lvl 4** | Web Scraping | ⏳ To Do | Price Tracker |
-| **Lvl 5** | APIs & Database | ⏳ To Do | Portfolio Manager |
-```
+# Python Internship – RFT
 
- 📂 Repository Structure
-```text
-python_practice/
-├── 01_basics/          # Variables, Loops, and Data Types
-├── 02_intermediate/    # Decorators, Generators, and Iterators
-├── 03_oop/             # Object-Oriented Programming projects
-├── 04_data_structures/ # Stacks, Queues, Linked Lists
-├── tests/              # PyTest files for my scripts
-└── requirements.txt    # List of libraries used
+This repository contains my daily work for the RFT Internship at GOW AI Academy.
+
+##  Progress
+
+| Day   | Task                           |
+| ----- | ------------------------------ |
+| Day 1 | Data Cleaner (List Processing) |
+| Day 2 | Student Score Analyzer         |
+
+## Structure
 ```
+RFTInternship/
+<<<<<<< HEAD
+├── Day1/
+│   ├── data_cleaner.ipynb
+│   ├── data_cleaner.py
+│   └── README.md
+│
+├── Day2/
+│   ├── score_analyzer.ipynb
+│   ├── score_analyzer.py
+│   └── README.md
+
+---
+```
+Consistently updating this repository as part of my internship journey 
 
 💡 Top Lessons Learned
 
