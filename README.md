@@ -18,24 +18,21 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 
 ##  Progress
 
-| Day   | Task                           |
-| ----- | ------------------------------ |
-| Day 1 | Data Cleaner (List Processing) |
-| Day 2 | Student Score Analyzer         |
+|    Day    |            Task                |
+| --------- | ------------------------------ |
+| PROJECT 1 | Data Cleaner (List Processing) |
+| PROJECT 2 | Student Score Analyzer         |
 
 ## Structure
 ```
 RFTInternship/
-<<<<<<< HEAD
-├── Day1/
-│   ├── data_cleaner.ipynb
-│   ├── data_cleaner.py
-│   └── README.md
+├── PROJECT 1/
+│   ├── project1.ipynb
+│   └── project1.png
 │
-├── Day2/
-│   ├── score_analyzer.ipynb
-│   ├── score_analyzer.py
-│   └── README.md
+├── PROJECT 2/
+│   ├── project2.ipynb
+│   └── project2.png
 
 ---
 ```
