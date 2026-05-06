@@ -22,6 +22,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | --------- | ------------------------------ |
 | PROJECT 1 | Data Cleaner (List Processing) |
 | PROJECT 2 | Student Score Analyzer         |
+| PROJECT 3 | DICTIONARY-BASED PHONEBOOK     |
 
 ## Structure
 ```
@@ -33,6 +34,10 @@ RFTInternship/
 ├── PROJECT 2/
 │   ├── project2.ipynb
 │   └── project2.png
+|
+├── PROJECT 3/
+│   ├── project3.png
+│   └── project3.py
 
 ---
 ```
