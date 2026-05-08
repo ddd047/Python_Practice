@@ -64,3 +64,4 @@ Consistently updating this repository as part of my internship journey
     Lesson 2: Virtual environments (venv) are not optional if you value your sanity.
 
 Star ⭐ this repo if you're also on a Python journey!
+![](https://github.com/ddd047/Python_Practice/blob/main/the-end.gif)
