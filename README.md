@@ -47,8 +47,8 @@ RFTInternship/
     |
     ├── PROJECT 5/
     |   ├── project5.png
-    │   ├── project5.py
-    │   └── project5.png
+    │   ├── data.csv
+    │   └── project5.py
 
 
 ---
