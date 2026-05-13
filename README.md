@@ -27,6 +27,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 5 | BASIC CSV READER               |
 | PROJECT 6 | SALES DATA ANALYZER            |
 | PROJECT 7 | STUDENT PERFORMANCE DASHBOARD  |
+| PROJECT 8 | EMPLOYEE SALARY INSIGHTS       |
 
 ## Structure
 ```
@@ -59,6 +60,10 @@ RFTInternship/
     ├── PROJECT 7/
     |   ├── project7.ipynb
     │   ├── project7.png
+    |
+    ├── PROJECT 8/
+    |   ├── project8.ipynb
+    │   ├── project8.png
 
 
 ---
