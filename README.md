@@ -25,6 +25,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 3 | DICTIONARY-BASED PHONEBOOK     |
 | PROJECT 4 | SIMPLE LOG ANALYZER            |
 | PROJECT 5 | BASIC CSV READER               |
+| PROJECT 6 | SALES DATA ANALYZER            |
+| PROJECT 7 | STUDENT PERFORMANCE DASHBOARD  |
 
 ## Structure
 ```
@@ -49,6 +51,14 @@ RFTInternship/
     |   ├── Data.csv
     │   ├── project5.jpeg
     │   └── project5.py
+    |
+    ├── PROJECT 6/
+    |   ├── project6.ipynb
+    │   ├── project6.png
+    |
+    ├── PROJECT 7/
+    |   ├── project7.ipynb
+    │   ├── project7.png
 
 
 ---
