@@ -28,6 +28,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 6 | SALES DATA ANALYZER            |
 | PROJECT 7 | STUDENT PERFORMANCE DASHBOARD  |
 | PROJECT 8 | EMPLOYEE SALARY INSIGHTS       |
+| PROJECT 9 | DATA FILTERING TOOL            |
 
 ## Structure
 ```
@@ -64,6 +65,10 @@ RFTInternship/
     ├── PROJECT 8/
     |   ├── project8.ipynb
     │   ├── project8.png
+    ├── PROJECT 9/
+    |   ├── DATA.csv
+    │   ├── project9.ipynb
+    │   └── projec9.png
 
 
 ---
