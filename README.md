@@ -18,17 +18,18 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 
 ##  Progress
 
-|    Day    |            Task                |
-| --------- | ------------------------------ |
-| PROJECT 1 | Data Cleaner (List Processing) |
-| PROJECT 2 | Student Score Analyzer         |
-| PROJECT 3 | DICTIONARY-BASED PHONEBOOK     |
-| PROJECT 4 | SIMPLE LOG ANALYZER            |
-| PROJECT 5 | BASIC CSV READER               |
-| PROJECT 6 | SALES DATA ANALYZER            |
-| PROJECT 7 | STUDENT PERFORMANCE DASHBOARD  |
-| PROJECT 8 | EMPLOYEE SALARY INSIGHTS       |
-| PROJECT 9 | DATA FILTERING TOOL            |
+|    Day     |            Task                |
+| ---------- | ------------------------------ |
+| PROJECT 1  | Data Cleaner (List Processing) |
+| PROJECT 2  | Student Score Analyzer         |
+| PROJECT 3  | DICTIONARY-BASED PHONEBOOK     |
+| PROJECT 4  | SIMPLE LOG ANALYZER            |
+| PROJECT 5  | BASIC CSV READER               |
+| PROJECT 6  | SALES DATA ANALYZER            |
+| PROJECT 7  | STUDENT PERFORMANCE DASHBOARD  |
+| PROJECT 8  | EMPLOYEE SALARY INSIGHTS       |
+| PROJECT 9  | DATA FILTERING TOOL            |
+| PROJECT 11 | SALES TREND VISUALIZATION      |
 
 ## Structure
 ```
@@ -45,6 +46,10 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 │   └── project3.py
 |
 RFTInternship/
+    ├── PROJECT 11/
+    │   ├── project11.ipynb
+    │   └── projec11.png
+    |
     ├── PROJECT 4/
     │   ├── project4.ipynb
     │   └── project4.png
