@@ -30,6 +30,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 8  | EMPLOYEE SALARY INSIGHTS       |
 | PROJECT 9  | DATA FILTERING TOOL            |
 | PROJECT 11 | SALES TREND VISUALIZATION      |
+| PROJECT 12 | STUDENTS PERFORMANCE DASHBOARD |
 
 ## Structure
 ```
@@ -49,7 +50,11 @@ RFTInternship/
     ├── PROJECT 11/
     │   ├── project11.ipynb
     │   └── projec11.png
-    |
+    │
+    ├── PROJECT 12/
+    │   ├── project12.ipynb
+    │   └── project12.png
+    | 
     ├── PROJECT 4/
     │   ├── project4.ipynb
     │   └── project4.png
