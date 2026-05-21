@@ -32,7 +32,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 11 | SALES TREND VISUALIZATION      |
 | PROJECT 12 | STUDENTS PERFORMANCE DASHBOARD |
 | PROJECT 13 | DISTRIBUTIONAL ANNALYSIS (SEABORN) |
-| PROJECT 14 | CATEGORY BREAKDOWN(PIECHART)   |
+| PROJECT 14 | CATEGORY BREAKDOWN (PIECHART)   |
 
 ## Structure
 ```
@@ -56,6 +56,14 @@ RFTInternship/
     ├── PROJECT 12/
     │   ├── project12.ipynb
     │   └── project12.png
+    │
+    ├── PROJECT 13/
+    │   ├── PROJECT13.png
+    │   └── project13.ipynb
+    |
+    ├── PROJECT 14/
+    │   ├── project14.ipynb
+    │   └── project14.png
     | 
     ├── PROJECT 4/
     │   ├── project4.ipynb
