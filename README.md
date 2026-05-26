@@ -33,6 +33,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 12 | STUDENTS PERFORMANCE DASHBOARD |
 | PROJECT 13 | DISTRIBUTIONAL ANNALYSIS (SEABORN) |
 | PROJECT 14 | CATEGORY BREAKDOWN (PIECHART)   |
+| PROJECT 15 | MINI EDA DASHBOARD (COMBINED)   |
+| PROJECT 16 | COMPLETE SALES DATA EDA   |
 
 ## Structure
 ```
@@ -64,7 +66,15 @@ RFTInternship/
     ├── PROJECT 14/
     │   ├── project14.ipynb
     │   └── project14.png
-    | 
+    │
+    ├── PROJECT 15/
+    │   ├── project15.ipynb
+    │   └── project15.png
+    |
+    ├── PROJECT 16/
+    │   ├── project16.ipynb
+    │   └── project16.png
+    │
     ├── PROJECT 4/
     │   ├── project4.ipynb
     │   └── project4.png
