@@ -35,6 +35,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 14 | CATEGORY BREAKDOWN (PIECHART)   |
 | PROJECT 15 | MINI EDA DASHBOARD (COMBINED)   |
 | PROJECT 16 | COMPLETE SALES DATA EDA   |
+| PROJECT 17 | COUSTOMER SEGMENTATION ANALYSIS   |
 
 ## Structure
 ```
@@ -74,6 +75,10 @@ RFTInternship/
     ├── PROJECT 16/
     │   ├── project16.ipynb
     │   └── project16.png
+    │
+    ├── PROJECT 17/
+    │   ├── project17.ipynb
+    │   └── project4.png
     │
     ├── PROJECT 4/
     │   ├── project4.ipynb
