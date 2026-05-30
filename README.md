@@ -29,6 +29,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 7  | STUDENT PERFORMANCE DASHBOARD  |
 | PROJECT 8  | EMPLOYEE SALARY INSIGHTS       |
 | PROJECT 9  | DATA FILTERING TOOL            |
+| PROJECT 10 | SIMPLE LOG ANALYZER  |
 | PROJECT 11 | SALES TREND VISUALIZATION      |
 | PROJECT 12 | STUDENTS PERFORMANCE DASHBOARD |
 | PROJECT 13 | DISTRIBUTIONAL ANNALYSIS (SEABORN) |
@@ -36,6 +37,9 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 15 | MINI EDA DASHBOARD (COMBINED)   |
 | PROJECT 16 | COMPLETE SALES DATA EDA   |
 | PROJECT 17 | COUSTOMER SEGMENTATION ANALYSIS   |
+| PROJECT 18 | MOVIE DATASET ANALYSIS  |
+| PROJECT 19 | STOCK/TIME-SERIES ANALYSIS   |
+| PROJECT 20 | OPEN DATASET CAPSTONE PROJECT   |
 
 ## Structure
 ```
@@ -52,9 +56,12 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 │   └── project3.py
 |
 RFTInternship/
+    ├── PROJECT 10/
+    │   ├── project11.ipynb
+    │
     ├── PROJECT 11/
     │   ├── project11.ipynb
-    │   └── projec11.png
+    │   └── project11.png
     │
     ├── PROJECT 12/
     │   ├── project12.ipynb
@@ -79,6 +86,18 @@ RFTInternship/
     ├── PROJECT 17/
     │   ├── project17.ipynb
     │   └── project4.png
+    |
+    ├── PROJECT 18/
+    │   ├── project18.ipynb
+    │   └── project18.png
+    │
+    ├── PROJECT 19/
+    │   ├── project19.ipynb
+    │   └── project19.png
+    │
+    ├── PROJECT 20/
+    │   ├── project20.ipynb
+    │   └── project20.png
     │
     ├── PROJECT 4/
     │   ├── project4.ipynb
