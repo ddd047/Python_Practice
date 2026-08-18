@@ -40,6 +40,7 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 18 | MOVIE DATASET ANALYSIS  |
 | PROJECT 19 | STOCK/TIME-SERIES ANALYSIS   |
 | PROJECT 20 | OPEN DATASET CAPSTONE PROJECT   |
+| PROJECT 21 | FUNCTIONS — INTERMEDIATE |
 
 ## Structure
 ```
@@ -98,6 +99,10 @@ RFTInternship/
     ├── PROJECT 20/
     │   ├── project20.ipynb
     │   └── project20.png
+    │
+    ├── PROJECT 21/
+    │   ├── project21.ipynb
+    │   └── project21.png
     │
     ├── PROJECT 4/
     │   ├── project4.ipynb
