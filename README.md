@@ -41,6 +41,8 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | PROJECT 19 | STOCK/TIME-SERIES ANALYSIS   |
 | PROJECT 20 | OPEN DATASET CAPSTONE PROJECT   |
 | PROJECT 21 | FUNCTIONS — INTERMEDIATE |
+|PROJECT 22 | Sales & Customer Insights Dashboard  |
+|PROJECT 23 | Employee Performance Analytics System   |
 
 ## Structure
 ```
@@ -103,6 +105,15 @@ RFTInternship/
     ├── PROJECT 21/
     │   ├── project21.ipynb
     │   └── project21.png
+    │
+    ├── PROJECT 22/
+    │   ├── project22.ipynb
+    │   └── project22.png
+    │
+    ├── PROJECT 23/
+    |   ├──employee_performance.csv
+    │   ├── project23.ipynb
+    │   └── project23.png
     │
     ├── PROJECT 4/
     │   ├── project4.ipynb
