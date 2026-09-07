@@ -1,0 +1,7 @@
+Ticker,Sector,Quantity,Buy_Price,Current_Price
+AAPL,Technology,10,150.00,185.50
+MSFT,Technology,5,280.00,420.00
+JNJ,Healthcare,12,160.00,152.00
+JPM,Financials,8,140.00,195.00
+XOM,Energy,15,105.00,118.00
+TSLA,Automotive,6,240.00,175.00
