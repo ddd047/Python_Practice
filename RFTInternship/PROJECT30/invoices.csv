@@ -1,0 +1,6 @@
+Invoice_Number,Customer_Name,Customer_Email,Invoice_Date,Due_Date,Item_Name,Quantity,Unit_Price,Payment_Status
+INV-2026-001,Acme Corp,billing@acme.com,2026-07-15,2026-08-15,Cloud Hosting,2,250.00,Unpaid
+INV-2026-001,Acme Corp,billing@acme.com,2026-07-15,2026-08-15,SSL Certificate,1,80.00,Unpaid
+INV-2026-002,Global Tech,ap@globaltech.com,2026-08-10,2026-09-10,Consulting Hours,10,150.00,Paid
+INV-2026-003,Starlight Media,finance@starlight.io,2026-07-20,2026-08-20,Video Production,1,1800.00,Unpaid
+INV-2026-004,Nexus Retail,accounts@nexus.com,2026-08-25,2026-09-25,POS Hardware,3,400.00,Unpaid
