@@ -1,0 +1,8 @@
+Category,Actual_Spent,Budget_Limit,Variance,Status
+Dining,90.75,120.0,29.25,Within Budget
+Entertainment,26.98,40.0,13.02,Within Budget
+Groceries,227.6,250.0,22.400000000000006,Within Budget
+Housing,1250.0,1300.0,50.0,Within Budget
+Shopping,115.0,100.0,-15.0,Over Budget
+Transportation,73.5,100.0,26.5,Within Budget
+Utilities,137.5,150.0,12.5,Within Budget
